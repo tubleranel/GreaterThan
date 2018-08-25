@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GreaterThan</string>
+    <string name="firstNum">Input First Number</string>
+    <string name="secNum">Input Second Number</string>
+</resources>
